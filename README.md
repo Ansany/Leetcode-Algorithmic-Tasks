@@ -8,6 +8,7 @@ Here I store the solution of algorithmic tasks from Leetcode.com using Swift :+1
 > - [ValidParentheses](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/ValidParentheses)
 > - [LongestCommonPrefix](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/LongestCommonPrefix)
 > - [MergeTwoSortedList](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/MergeTwoSortedList)
+> - [SearchInsertPosition](https://github.com/Ansany/Leetcode-Algorithmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/SearchInsertPosition)
 
 ## Medium level tasks
 > - [LongestSubscriptWithoutRepeatingCharacters](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/MediumLevel/LongestSubscriptWithoutRepeatingCh)
