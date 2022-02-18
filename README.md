@@ -10,6 +10,7 @@ Here I store the solution of algorithmic tasks from Leetcode.com using Swift :+1
 > - [MergeTwoSortedList](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/MergeTwoSortedList)
 > - [SearchInsertPosition](https://github.com/Ansany/Leetcode-Algorithmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/SearchInsertPosition)
 > - [ImplementStrStr](https://github.com/Ansany/Leetcode-Algorithmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/ImplementStrStr)
+> - [CountOperationsToObtainZero](https://github.com/Ansany/Leetcode-Algorithmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/EasyLevel/CountOperationsToObtainZero)
 
 ## Medium level tasks
 > - [LongestSubscriptWithoutRepeatingCharacters](https://github.com/Ansany/Leetcode-Algoritmic-Tasks/tree/main/Leetcode-Algoritmic-Tasks/MediumLevel/LongestSubscriptWithoutRepeatingCh)
