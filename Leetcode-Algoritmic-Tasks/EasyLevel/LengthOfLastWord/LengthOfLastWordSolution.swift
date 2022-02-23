@@ -16,3 +16,9 @@
 
         return answer
     }
+
+
+// another simplest solution
+
+// guard let word = s.split(separator: " ").last else { return 0 }
+// return word.count
